@@ -29,5 +29,3 @@ function changeColor() {
         farge.style.backgroundColor = "red";
     }
 }
-
-    
